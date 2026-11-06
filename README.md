@@ -219,4 +219,4 @@ Dofus is available as a full free version with all features and updates included
 Join the adventure today and download Dofus free for Windows! Experience the magic of MMORPGs like never before!
 
 ---
-**Last updated:** 2026-11-06 16:21:43 UTC
+**Last updated:** 2026-11-06 21:48:47 UTC
